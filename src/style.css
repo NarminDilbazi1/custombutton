@@ -1,0 +1,24 @@
+.style button{
+    cursor: pointer;
+    width: 150px;
+    line-height: 35px;
+    border-radius: 5px;
+    margin-left: 15px;
+    background-color: darkblue;
+}
+
+.add{
+    border: 3px rgb(251, 4, 4) solid;
+}
+
+.displaytext{
+    margin-left: 50px
+}
+.popup{
+    font-style: italic;
+}
+
+button{
+    color: white;
+
+}
